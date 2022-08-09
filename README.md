@@ -8,4 +8,4 @@ Developed in group using Scrum methodology by:
 - Pamela Bastos
 - Flávio Félix
 
-Pages:
+Pages: https://app-recipes-project.vercel.app/
