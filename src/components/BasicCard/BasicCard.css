@@ -1,0 +1,8 @@
+.recipe-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-card-img {
+  min-width: 50vw;
+}
