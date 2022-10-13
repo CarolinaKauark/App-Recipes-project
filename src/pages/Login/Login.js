@@ -52,9 +52,9 @@ function Login({ history }) {
     <Container className="pt-3 login">
       <Container className="border border-success rounded bg-light shadow mb-5">
         <h1 className="text-center">
-          <span style={ titleStyle }>&#129367;</span>
+          {/* <span style={ titleStyle }>&#129367;</span> */}
           Recipes
-          <span style={ titleStyle }>&#127865;</span>
+          {/* <span style={ titleStyle }>&#127865;</span> */}
         </h1>
       </Container>
       <Form className="border border-success p-3 rounded bg-light shadow">
